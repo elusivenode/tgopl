@@ -1,1 +1,1 @@
-"# Repository of code for exercises in The Go Programming Language"
+# Repository of code for exercises in The Go Programming Language
